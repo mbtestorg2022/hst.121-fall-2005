@@ -43,9 +43,9 @@ Overview of Physiology
 {{< tdopen >}}
 
 
-Dr. Jonathan N. Glickman (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2 MB]({{< baseurl >}}/resources/section1))
+Dr. Jonathan N. Glickman ([PDF - 1.2 MB]({{< baseurl >}}/resources/section1))
 
-Dr. Jonathan N. Glickman (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/section2))
+Dr. Jonathan N. Glickman ([PDF]({{< baseurl >}}/resources/section2))
 
 
 {{< tdclose >}}
@@ -78,14 +78,14 @@ Pathology of Esophagus and Stomach
 
 Dr. Helen Shields
 
-Dr. Jonathan N. Glickman (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.2 MB]({{< baseurl >}}/resources/section5))
+Dr. Jonathan N. Glickman ([PDF - 3.2 MB]({{< baseurl >}}/resources/section5))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Dr. Jonathan N. Glickman (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB]({{< baseurl >}}/resources/06_glickman))
+Dr. Jonathan N. Glickman ([PDF - 1.6 MB]({{< baseurl >}}/resources/06_glickman))
 
 Dr. Jonathan N. Glickman ([PDF - 2.3 MB]({{< baseurl >}}/resources/08_glickman))
 
@@ -116,7 +116,7 @@ Dr. Richard S. Blumberg ([PDF - 1.0 MB]({{< baseurl >}}/resources/01_blumberg))
 Lipid Digestion, Absorption and Malabsorption
 {{< tdclose >}}
 {{< tdopen >}}
-Dr. Martin C. Carey (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/section8))
+Dr. Martin C. Carey ([PDF - 1.1 MB]({{< baseurl >}}/resources/section8))
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Martin C. Carey ([PDF]({{< baseurl >}}/resources/03_carey))
@@ -197,7 +197,7 @@ Minicases: Malabsorption
 Gastrointestinal Neoplasms
 {{< tdclose >}}
 {{< tdopen >}}
-Dr. Jonathan N. Glickman (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.1 MB]({{< baseurl >}}/resources/section10))
+Dr. Jonathan N. Glickman ([PDF - 3.1 MB]({{< baseurl >}}/resources/section10))
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Jonathan N. Glickman ([PDF - 4.0 MB]({{< baseurl >}}/resources/hstneopla05opens))
@@ -212,7 +212,7 @@ Dr. Jonathan N. Glickman ([PDF - 4.0 MB]({{< baseurl >}}/resources/hstneopla05op
 Physiological Chemistry of GI Lipids
 {{< tdclose >}}
 {{< tdopen >}}
-Dr. Martin C. Carey (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB]({{< baseurl >}}/resources/section11))
+Dr. Martin C. Carey ([PDF - 1.6 MB]({{< baseurl >}}/resources/section11))
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Martin C. Carey ([PDF]({{< baseurl >}}/resources/04_carey))
@@ -248,7 +248,7 @@ Acute and Chronic Pancreatitis
 Pathology of Pancreas and Biliary Tract
 {{< tdclose >}}
 {{< tdopen >}}
-Dr. Jonathan N. Glickman (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2 MB]({{< baseurl >}}/resources/section14))
+Dr. Jonathan N. Glickman ([PDF - 1.2 MB]({{< baseurl >}}/resources/section14))
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Jonathan N. Glickman ([PDF - 2.9 MB]({{< baseurl >}}/resources/hstpancre05open))
@@ -263,7 +263,7 @@ Dr. Jonathan N. Glickman ([PDF - 2.9 MB]({{< baseurl >}}/resources/hstpancre05op
 Biliary Secretion, Cholestasis and Gallstone Formation
 {{< tdclose >}}
 {{< tdopen >}}
-Dr. Martin C. Carey (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/section15))
+Dr. Martin C. Carey ([PDF]({{< baseurl >}}/resources/section15))
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Martin C. Carey ([PDF - 4.1 MB]({{< baseurl >}}/resources/02_carey))
@@ -299,7 +299,7 @@ Diagnostic and Therapeutic Endoscopy
 Pathology of the Liver
 {{< tdclose >}}
 {{< tdopen >}}
-Dr. Jonathan N. Glickman (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.7 MB]({{< baseurl >}}/resources/section22))
+Dr. Jonathan N. Glickman ([PDF - 5.7 MB]({{< baseurl >}}/resources/section22))
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Jonathan N. Glickman ([PDF - 6.2 MB]({{< baseurl >}}/resources/liverpath05opens))
@@ -337,9 +337,9 @@ Alcohol and Drug-Induced Liver Disease
 {{< tdopen >}}
 
 
-Dr. Raymond T. Chung (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/section20))
+Dr. Raymond T. Chung ([PDF]({{< baseurl >}}/resources/section20))
 
-Dr. Raymond T. Chung (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9 MB]({{< baseurl >}}/resources/section19))
+Dr. Raymond T. Chung ([PDF - 2.9 MB]({{< baseurl >}}/resources/section19))
 
 
 {{< tdclose >}}
@@ -411,16 +411,16 @@ Pathophysiological Consequences of Cirrhosis
 {{< anchor "Additional_Fall_2002_Lecture_Notes" >}}{{< /anchor >}}Additional Fall 2002 Lecture Notes
 ----------------------------------------------------------------------------------------------------
 
-Motility of the Alimentary Tract (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.2 MB]({{< baseurl >}}/resources/section6))
+Motility of the Alimentary Tract ([PDF - 4.2 MB]({{< baseurl >}}/resources/section6))
 
-Physiology and Biochemistry of the Pancreas (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2 MB]({{< baseurl >}}/resources/section12))
+Physiology and Biochemistry of the Pancreas ([PDF - 1.2 MB]({{< baseurl >}}/resources/section12))
 
-Acute and Chronic Pancreatitis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/section13))
+Acute and Chronic Pancreatitis ([PDF]({{< baseurl >}}/resources/section13))
 
-Imaging of the GI Tract (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/section16))
+Imaging of the GI Tract ([PDF]({{< baseurl >}}/resources/section16))
 
-Physiology and Biochemistry of the Liver (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.5 MB]({{< baseurl >}}/resources/section17))
+Physiology and Biochemistry of the Liver ([PDF - 5.5 MB]({{< baseurl >}}/resources/section17))
 
-Diagnostic and Therapeutic Endoscopy (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/section21))
+Diagnostic and Therapeutic Endoscopy ([PDF]({{< baseurl >}}/resources/section21))
 
-Pathophysiological Consequences of Cirrhosis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/section23))
+Pathophysiological Consequences of Cirrhosis ([PDF]({{< baseurl >}}/resources/section23))
