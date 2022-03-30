@@ -10,6 +10,7 @@ description: 'This resource provides information about absorption efficiency of 
   lipases, and luminal triglyceride lipases.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-121-gastroenterology-fall-2005/10e96e0984aa677b9f3037d1ca0c5567_03_carey.pdf
 file_type: application/pdf
+parent_uid: 1c4b8ea0-5de6-6c17-9bfc-bfe5e773f8e0
 resourcetype: Document
 title: 03_carey.pdf
 uid: 10e96e09-84aa-677b-9f30-37d1ca0c5567

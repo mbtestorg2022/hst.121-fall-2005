@@ -15,6 +15,7 @@ description: 'This resource provides information about mucosal barrier function,
   cell, Peyer?s patch development, and concept of the common MALT.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-121-gastroenterology-fall-2005/c5339a0af7c7400f75d2d049d63ab27a_01_blumberg.pdf
 file_type: application/pdf
+parent_uid: 1c4b8ea0-5de6-6c17-9bfc-bfe5e773f8e0
 resourcetype: Document
 title: 01_blumberg.pdf
 uid: c5339a0a-f7c7-400f-75d2-d049d63ab27a

@@ -6,6 +6,7 @@ description: This resource provides information about lipids, polar lipids, clas
   membranes.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-121-gastroenterology-fall-2005/1c44a0e0d21b2202ced7593236b15327_section11.pdf
 file_type: application/pdf
+parent_uid: 1c4b8ea0-5de6-6c17-9bfc-bfe5e773f8e0
 resourcetype: Document
 title: section11.pdf
 uid: 1c44a0e0-d21b-2202-ced7-593236b15327

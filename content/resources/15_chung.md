@@ -6,6 +6,7 @@ description: This resource provides information about the traditional liver lobu
   oo degraded to lipophilic products.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-121-gastroenterology-fall-2005/0a0a918da4dd0b20694020276f5f79ff_15_chung.pdf
 file_type: application/pdf
+parent_uid: 1c4b8ea0-5de6-6c17-9bfc-bfe5e773f8e0
 resourcetype: Document
 title: 15_chung.pdf
 uid: 0a0a918d-a4dd-0b20-6940-20276f5f79ff

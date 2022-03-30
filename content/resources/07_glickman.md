@@ -7,6 +7,7 @@ description: 'This resource provides information about gastroenterology, basic s
   digestion.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-121-gastroenterology-fall-2005/eeef9617dd3f027e87b2c562327fd0f2_07_glickman.pdf
 file_type: application/pdf
+parent_uid: 1c4b8ea0-5de6-6c17-9bfc-bfe5e773f8e0
 resourcetype: Document
 title: 07_glickman.pdf
 uid: eeef9617-dd3f-027e-87b2-c562327fd0f2
